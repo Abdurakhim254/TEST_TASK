@@ -1,0 +1,24 @@
+{
+  "name": "test_git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdurakhim254/TEST_TASK.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Abdurakhim254/TEST_TASK/issues"
+  },
+  "homepage": "https://github.com/Abdurakhim254/TEST_TASK#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
